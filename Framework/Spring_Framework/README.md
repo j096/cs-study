@@ -1,23 +1,23 @@
 # Spring Framework
  스프링은 애플리케이션에서 사용할 수 있는 프레임워크이다.
- 
+
  ## 스프링의 역할
  스프링은 프레임워크이지만, Struts 같은 웹 애플리케이션 개발용 프레임워크와는 용도가 다르다.
  스프링은 '애플리케이션 프레임쿼크'라는 이름에 걸맞게 어떤 애플리케이션에도 적용할 수 있다.
  스프링은 기술적으로 `의존 관계 주입(DI)`과 `AOP`를 핵심으로 하고있다.
- 
+
  ## 스프링 빈 (Spring Bean)
  Spring IoC 컨테이너가 관리하는 자바 객체를 Bean 이라고 부른다.
  - IOC (Inversion Of Control, 제어의 역전)<br>
 객체의 생성을 특별한 관리 위임 주체에게 맡기는 것. 사용자가 객체를 직접 생성하지 않고, 객체의 생명주기를 컨트롤하는 주체를 스프링에게 넘긴다. 
- 
+
  ## 스프링을 활용하기 위한 설계
  스프링을 활용하려면 인터페이스 기반 설계를 이해하는 것이 중요하다. 의존 관계는 구상 클래스가 아닌, 인터페이스를 통해 이뤄지기 때문이다.
- 
+
  ## 싱글턴 (Singleton)
  스프링은 기본적으로 인스턴스를 싱글턴으로 생성한다.
  싱글턴이란, 오직 하나의 객체만을 생성할 수 있는 클래스이다. 싱글턴 패턴을 사용하면 객체의 유일성을 보장할 수 있다.
- 
+
  ## 스프링을 구성하는 모듈
  ![spring_modules](./img/spring_modules.png)
  - Core, Beans<br>
@@ -37,8 +37,10 @@
  - Test
  JUnit이나 TestNG를 사용한 테스트를 지원한다. 여러 테스트 시나리오로 활용할 수 있는 목(mock) 객체도 제공한다.
  ## [DI](https://github.com/j096/cs-study/tree/master/Framework/Spring_Framework/DI)
- 
- ## [AOP](https://github.com/j096/cs-study/tree/master/Framework/Spring_Framework/AOP)
- 
 
- 
+ ## [AOP](https://github.com/j096/cs-study/tree/master/Framework/Spring_Framework/AOP)
+
+ ## [Annotation](https://github.com/j096/cs-study/tree/master/Framework/Spring_Framework/Annotation)
+
+
+

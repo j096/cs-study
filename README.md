@@ -32,7 +32,7 @@ CS관련 공부한(할) 내용들 정리
 + Index
   
 ## API
-+ REST
++ [REST](https://github.com/j096/cs-study/tree/master/API/REST)
 + RPC
 + Thrift
 
