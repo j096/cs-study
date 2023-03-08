@@ -2,12 +2,11 @@
 CS관련 공부한(할) 내용들 정리
 
 ## Algorithm
-+ Basic
-+ Searching
-+ Greedy Algorithm
-+ DFS
-+ BFS
-+ DP
++ Asymptotic Notation
++ Sort
++ [Graph](https://github.com/j096/cs-study/tree/master/Algorithm/Graph)
++ Dynamic Programming
++ [Greedy Algorithm](https://github.com/j096/cs-study/tree/master/Algorithm/Greedy_Algorithm)
 
 ## Language
 + Java
