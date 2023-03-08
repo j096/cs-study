@@ -40,7 +40,7 @@
    2. 바로 전에 선택된 회의 종료 시간과 현재 회의 시작 시간을 비교하여 현재 회의를 선택할 수 있는지 판단한다.
    3. 회의를 모두 확일할 때까지 2번을 반복한다.
 
-3. 다익스트라 알고리즘
+3. [다익스트라 알고리즘](https://github.com/j096/cs-study/tree/master/Algorithm/Graph/Shortest_Path#%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-dijkstra-algorithm)
 
    
 
