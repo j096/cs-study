@@ -11,7 +11,7 @@
 
 ## 다익스트라 알고리즘 (Dijkstra Algorithm)
 
-최소 신장 트리를 위한 [프림 알고리즘](https://github.com/j096/cs-study/tree/master/Algorithm/Graph/Minimum_Sapnning_Tree/#프림-알고리즘)과 원리가 거의 같다.
+최소 신장 트리를 위한 [프림 알고리즘](https://github.com/j096/cs-study/tree/master/Algorithm/Graph/Minimum_Spanning_Tree)과 원리가 거의 같다.
 
 1. 시작 정점을 집합 S의 첫 번째 원소로 포함시킨다.
 2. 포함된 정점의 인접 정점에 이르는 거리(가중치)를 각 정점에 기록한다.
