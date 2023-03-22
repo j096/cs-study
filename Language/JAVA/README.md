@@ -8,10 +8,10 @@
 
 ## 정렬
 
-- Array
-- List
-- Map
-- Set
+- [Array](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Array)
+- [List](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/List)
+- [Map](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Map)
+- [Set](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Set)
 
 ## 메소드와 변수의 스코프
 
