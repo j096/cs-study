@@ -1,60 +1,56 @@
 # JAVA
 
+일반적인 프로그램은 윈도우 또는 리눅스와 같은 운영체제 위에서 실행된다. 하드웨어 기반으로 운영체제가 동작하고, 그 위에서 프로그램이 실행되는 구조이다.
 
+그러나 자바 프로그램은 운영체제가 **자바 가상머신(Java Virtual Machine)**을 실행시키고, 자바 가상머신이 자바 프로그램을 실행시키는 구조로 동작한다. 이는 **자바 프로그램을 운영체제에 상관없이 실행시키기 위함**이다. 따라서 자바 프로그램은 코드 수정 없이 JVM만 바꿔주어 다양한 운영체제에서 실행시킬 수 있다.
 
-## 변수,상수와 자료형
+- 자바 컴파일러
 
+  자바 컴파일러는 자바 가상머신이 이해할 수 있는 코드를 생성해 낸다. 사용자가 작성한 'ㅁㅁㅁ.java' 을 가리켜 소스파일이라 하며, 이 소스파일을 JVM이 이해할 수 있는 '자바 바이트코드'로 변환하여 'ㅁㅁㅁ.class' 파일을 만들어 낸다.
 
+## 변수와 자료형
+
+## 상수와 형 변환
+
+## 컬렉션 프레임워크
 
 ## 정렬
 
 - [Array](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Array)
 - [List](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/List)
-- [Map](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Map)
 - [Set](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Set)
+- [Map](https://github.com/j096/cs-study/tree/master/Language/JAVA/Sorting/Map)
 
 ## 메소드와 변수의 스코프
 
-
-
 ## 클래스와 인스턴스
 
+- 클래스 변수와 클래스 메소드
+- 메소드 오버로딩과 String 클래스
 - 정보 은닉과 캡슐화
-- 클래스 변수
-- 클래스 메소드
 - 클래스의 상속
 - 인터페이스와 추상 클래스
-- 기본 클래스
 
+## 자바의 기본 클래스
 
+- 자바 가상머신의 메모리 모델
+- Object 클래스
+- 래퍼 클래스 (Wrapper 클래스)
+- BigInteger 클래스 & BigDecimal 클래스
+- Math 클래스
+- Arrays 클래스
 
-## 배열 (Array)
+## 제네릭(Generics)
 
+## 열거형, 가변 인자, 어노테이션
 
+## 네스티드 클래스
 
-## 제네릭
-
-
-
-## 컬렉션 프레임워크
-
-
-
-## 열거형과 어노테이션
-
-
-
-## 네스티드 클래스와 람다(Lambda)
-
-
+## 람다(Lambda)
 
 ## 메소드 참조와 Optional
 
-
-
 ## 스트림
-
-
 
 ## 쓰레드와 동기화
 

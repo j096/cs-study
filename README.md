@@ -8,8 +8,14 @@ CS관련 공부한(할) 내용들 정리
 + Dynamic Programming
 + [Greedy Algorithm](https://github.com/j096/cs-study/tree/master/Algorithm/Greedy_Algorithm)
 
+## Data Structure
+
+- Linear
+- Non-Linear
+
 ## Language
-+ Java
+
++ [JAVA](https://github.com/j096/cs-study/tree/master/Language/JAVA)
 + SQL
 
 ## Framework
