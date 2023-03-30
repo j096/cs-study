@@ -185,7 +185,7 @@ list = new LinkedList<>(list);
 
 List<E>를 구현하는 클래스의 인스턴스들만 얻을 수 있는 '양방향 반복자' (ListIterator<E>)가 있다.
 
-```
+```java
 List<String> list = Arrays.asList("toy","robot","box");
 list = new ArrayList<>(list);
 
